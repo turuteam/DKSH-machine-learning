@@ -1,0 +1,22 @@
+﻿Architecting project
+                           This will be the final Road map!
+1.  SVM .py  
+
+
+2.  Naive Bayes Classifier.py
+
+
+      3)    Random forests.py
+
+
+      4)    Logistic Regression.py 
+
+
+      5)    Classification tree and question 6.py 
+  
+      6)   Classifier to get the best learning results 7  and 5.py
+
+
+      7)  Classifier to get the best learning results.py
+……………
+                 …………… Connect to the App
